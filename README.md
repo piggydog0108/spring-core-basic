@@ -1,5 +1,4 @@
 # Spring Core Study
-***
 
 Spring 핵심 기술에 관련한 학습을 위한 프로젝트이다.
 
